@@ -1,0 +1,59 @@
+body {
+  background: black;
+  font-family: "Russo One", sans-serif;
+}
+
+/* Header*/
+.header {
+  margin-top: 30px;
+}
+.twitch-logo {
+  margin-bottom: 10px;
+  width: 200px;
+  height: auto;
+  display: inline;
+}
+.btn-group {
+  margin-top: 10px;
+}
+.btn {
+  width: 100px;
+}
+
+/* Panels */
+.title {
+  font-size: 30px;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+.panel {
+  border-color: black;
+  border-radius: 0px;
+  margin: 30px 0px 30px 0px;
+}
+.panel-success > .panel-heading {
+  color: white;
+  background-color: green;
+  border-radius: 0px;
+}
+.panel-success > .panel-body {
+  color: white;
+  border-radius: 0px;
+  padding: 50px 30px;
+}
+.media-object {
+  width: 100px;
+  height: auto;
+  border: 1px solid white;
+}
+
+/* Footer */
+.twitch-logo2 {
+  margin-top: 40px;
+  width: 100px;
+  height: auto;
+}
+.page-footer {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
